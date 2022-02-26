@@ -26,5 +26,5 @@ var nama = "lia";
 var status = true;
 Math.random();
 var number = Math.floor(Math.random()*10); 
-var output = "menampilkan generate angka :" + nama + number + status;
+var output = nama + number + status;
 console.log(output);
